@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class UseCase9TrainConsistMgmntTest {
+public class usecase9Trainconsistmgmnttest1 {
 
     static class Bogie {
         String name;
